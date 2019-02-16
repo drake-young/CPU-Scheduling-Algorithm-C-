@@ -88,7 +88,7 @@ The program was developed and tested on gnu g++ 4.4.2.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;input4<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;input10<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;input100<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;makefile<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;makefile<br/><br/>
 3. Build the Program.<br/><br/>
 Compile the Program By:<br/>
 % make<br/><br/>
@@ -102,3 +102,7 @@ Compile the Program By:<br/>
 * **Drake Young** - [drake-young](https://github.com/drake-young)
 
 ## Sample Output
+
+Below is a sample output when running the program against the input4 file using the FCFS scheduling algorithm.
+
+<img src="https://github.com/drake-young/CPU-Scheduling-Algorithm-CPP/blob/master/Sample%20Output.png?raw=true" alt="sample output image" />
